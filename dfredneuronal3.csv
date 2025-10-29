@@ -1,4 +1,4 @@
-Country,Year,PIB per capita,Value_PIB minero,Value_PIB Manufacturero Hist. facturero,Value_PIB Real Hist. ,Leyes sobre Economía Circular,Value_Hist. Import. Plásticos,Value_Hist. Export. Plásticos,Tasa de Cambio,Tasa de Desempleo,Productividad,Densidad Poblacional,Indice de Gini,Emisiones en MTCO2,Value_Población +65,Value_Población 15-64,Value_Población 0-14,Fuerza Laboral / Pob. Econ. Activa,Value_Hist. Crecimiento Pob. Mun,Value_Hist. Población Mundial
+Country,Year,PIB per capita,Value_PIB minero,Value_PIB Manufacturero Hist.,Value_PIB Real Hist. ,Leyes sobre Economía Circular,Value_Hist. Import. Plásticos,Value_Hist. Export. Plásticos,Tasa de Cambio,Tasa de Desempleo,Productividad,Densidad Poblacional,Indice de Gini,Emisiones en MTCO2,Value_Población +65,Value_Población 15-64,Value_Población 0-14,Fuerza Laboral / Pob. Econ. Activa,Value_Hist. Crecimiento Pob. Mun,Value_Hist. Población Mundial
 Australia,1960,1810.70643,,,18607682977,0,,,0.892857,,,,,87.4443,876100,6296003,3104374,,,10276477
 Australia,1961,1877.707064,,,19684003149,0,,,0.892857,,,1.364565299,,87.0095,894050,6421575,3167374,,1.989740046,10483000
 Australia,1962,1854.746154,,,19923683188,0,,,0.892857,,,1.398279161,,90.9086,917544,6593630,3230825,,2.440639401,10742000
@@ -2047,4 +2047,5 @@ United States,2020,64411.37318,0.021389523,,2.13541E+13,0,,60205864,1,8.055,76.1
 United States,2021,71318.30736,0.101999501,,2.36812E+13,0,,74313449,1,5.349,76.52,36.29974102,39.7,5032.2128,54700985,217093996,60253996,167156631,0.157342694,332048977
 United States,2022,78035.17536,,,2.60069E+13,0,,83283461,1,3.65,76.45,36.43337805,41.3,5078.8713,56388258,217288142,59595011,169115595,0.367472694,333271411
 United States,2023,82769.41221,,,2.77207E+13,0,,77796411,1,3.638,77.66,,,4911.391,58381760,217606073,58927062,171333247,0.491924872,334914895
+
 
